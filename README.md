@@ -30,7 +30,7 @@
   </ul>
   </div> 
   <div align="right">
-   <img style="height:200px;width:600px" alt="coding-time" src="I love the internet.png">
+   <img style="height:200px;width:300px" alt="coding-time" src="I love the internet.png">
   </div>
   </section>
   <br>
