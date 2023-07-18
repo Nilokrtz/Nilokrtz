@@ -6,13 +6,10 @@
  <h3 align="center" style="font-size:30px">What`s up guys, I`m Nilo!👋
  </h3>
  </div>
-  
 <br>
-
 <h1 align="center">✨  About Me </h1>
   <section style= "display:flex; gap:10px">
   <div>
-  
   <ul>
   <img style = "margin-right:20px;height:20em;" alt="coding-time" src="laptop wave.png">
   I`m a newly graduated IT technician from Senac RJ. At 20 years old, with a passion for creating web solutions, I am embarking on a journey to become a web developer.<br>
@@ -33,10 +30,8 @@
     Stay here to witness my progress 😎
   </ul>
   </div> 
-
   </section>
   <br>
-
 <h1 align="center">🛠️Languangues and Tools </h1>  
 <div style="display: flex; justify-content: center; align-items: center;">
     <img align="left" height="200" alt="coding-time" src="hand pointer.png">
@@ -60,17 +55,13 @@
    </div>
    <br>
    <br>
-
-  
+   <br>
   <div align="center">
   <h1>📈 GitHub Stats</h1>
   <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=Nilokrtz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilokrtz&layout=compact&langs_count=16&theme=radical"/>
   </div>
-
-
 <br>
 <br>
 <br>
-  
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
