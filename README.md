@@ -8,7 +8,7 @@
  </div>
 <br>
 <h1 align="center">✨  About Me </h1>
-  <section style= "display:flex; gap:10px">
+  <section>
   <div>
   <ul>
   <div>
@@ -51,7 +51,7 @@
     <img height="30" width="40" style="margin-bottom:10px" alt="mysql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img height="30" width="40" style="margin-bottom:10px" alt="php-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img height="30" width="40" style="margin-bottom:10px" alt="tomcat-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original-wordmark.svg">
-    <img height="30" width="40" style="margin-bottom:10px" alt="trello-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
+    <img height="30" width="40" style="margin-bottom:10px" alt="trello-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">    
    </div>
    <br>
    <br>
