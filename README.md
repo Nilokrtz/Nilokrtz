@@ -24,7 +24,7 @@
     <li>🌐  I am to specialize in full-stack web development to create modern and responsive applications.</li>
     <li>📚 I am always learning and keeping up with the latest trends and technologies in the web industry.</li>
   <div align="right">
-   <img style="height:200px;width:300px" alt="coding-time" src="I love the internet.png">
+   <img style="height:15em; alt="coding-time" src="I love the internet.png">
   </div>
     <br>
     Feel free to explore my work and follow my progress as a web developer. I am excited to build an exciting future in the field of web development and share my knowledge with the community here on GitHub.
