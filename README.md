@@ -11,18 +11,20 @@
   <section style= "display:flex; gap:10px">
   <div>
   <ul>
-  <img style = "margin-right:20px;height:20em;" alt="coding-time" src="laptop wave.png">
-  I`m a newly graduated IT technician from Senac RJ. At 20 years old, with a passion for creating web solutions, I am embarking on a journey to become a web developer.<br>
-  Here on GitHub, you will find a variety of projects I am working on to enhance my skills as a web developer. I am committed to building interesting and functional applications, applying best development practices, and constantly learning from each project I complete.
+  <div>
+  <img align="left" style = "margin-right:20px;height:13em;" alt="coding-time" src="laptop wave.png">
+    <br>
+    <br>
+  <p>I`m a newly graduated IT technician from Senac RJ. At 20 years old, with a passion for creating web solutions, I am embarking on a journey to become a web developer.<br>
+  Here on GitHub, you will find a variety of projects I am working on to enhance my skills as a web developer. I am committed to building interesting and functional applications, applying best development practices, and constantly learning from each project I complete.</p>
+  </div>
   <br>
   <br>
+    <img align="right" style="height:15em; alt="coding-time" src="I love the internet.png">
     <li>💻 Interests:  Full-stack development and programming a little bit of all.</li>
     <li>🌱 Currently, I am honing my skills in React, Ionic, and Angular.</li>
     <li>🌐  I am to specialize in full-stack web development to create modern and responsive applications.</li>
     <li>📚 I am always learning and keeping up with the latest trends and technologies in the web industry.</li>
-  <div align="right">
-   <img style="height:15em; alt="coding-time" src="I love the internet.png">
-  </div>
     <br>
     Feel free to explore my work and follow my progress as a web developer. I am excited to build an exciting future in the field of web development and share my knowledge with the community here on GitHub.
     <br>
