@@ -37,8 +37,7 @@
   <div align="center">
     <h1>🛠️Languangues and Tools </h1>  
     <br>
-          <img align="left" height="150" alt="coding-time" src="hand pointer.png">
-          <img height="50" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+        <div><img height="50" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
           <img height="50" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
           <img height="50" width="40" alt="figma-icon" src="figma.png">
           <img height="50" width="40" alt="bootstrap-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
@@ -51,7 +50,9 @@
           <img height="50" width="40" alt="mysql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
           <img height="50" width="40" alt="php-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
           <img height="50" width="40" alt="tomcat-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original-wordmark.svg">
-          <img height="50" width="40" alt="trello-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">    
+          <img height="50" width="40" alt="trello-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
+        </div>
+        <div><img height="150" alt="coding-time" src="hand pointer.png"></div>
   </div>
    <br>
    <br>
