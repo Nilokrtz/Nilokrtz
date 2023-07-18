@@ -34,12 +34,10 @@
   </div> 
   </section>
   <br>
-<h1 align="center">🛠️Languangues and Tools </h1>  
-<div style="display: flex; justify-content: center; align-items: center;">
-    <img align="left" height="200" alt="coding-time" src="hand pointer.png">
+  <div align="center">
+    <h1>🛠️Languangues and Tools </h1>  
     <br>
-    <br>
-    <br>
+    <img height="150" alt="coding-time" src="hand pointer.png">
     <img height="30" width="40" style="margin-bottom:10px" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img height="30" width="40" style="margin-bottom:10px" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img height="30" width="40" style="margin-bottom:10px" alt="figma-icon" src="figma.png">
