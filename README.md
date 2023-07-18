@@ -62,7 +62,7 @@
    <br>
 
   <h1 align="center">📈 GitHub Stats</h1>
-  <div align="center" style="margin-right:20px">
+  <div align="center" style="display:flex;gap:10em">
   <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=Nilokrtz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilokrtz&layout=compact&langs_count=16&theme=radical"/>
   </div>
