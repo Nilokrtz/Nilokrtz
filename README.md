@@ -37,25 +37,21 @@
   <div align="center">
     <h1>🛠️Languangues and Tools </h1>  
     <br>
-    <table style= "border-collapse: collapse;">
-      <tr style= "border:none;">
-        <td style= "border:none;" ><img height="150" alt="coding-time" src="hand pointer.png"></td>
-        <td style= "border:none;"><img height="30" width="40" style="margin-bottom:10px" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-          <img height="30" width="40" style="margin-bottom:10px" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-          <img height="30" width="40" style="margin-bottom:10px" alt="figma-icon" src="figma.png">
-          <img height="30" width="40" style="margin-bottom:10px" alt="bootstrap-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-          <img height="30" width="40" style="margin-bottom:10px" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-          <img height="30" width="40" style="margin-bottom:10px" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-          <img height="30" width="40" style="margin-bottom:10px" alt="ionic-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg"><br>
-          <img height="30" width="40" style="margin-bottom:10px" alt="jquery-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
-          <img height="30" width="40" style="margin-bottom:10px" alt="angularjs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-          <img height="30" width="40" style="margin-bottom:10px" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-          <img height="30" width="40" style="margin-bottom:10px" alt="mysql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-          <img height="30" width="40" style="margin-bottom:10px" alt="php-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-          <img height="30" width="40" style="margin-bottom:10px" alt="tomcat-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original-wordmark.svg">
-          <img height="30" width="40" style="margin-bottom:10px" alt="trello-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">    
-        </td>
-    </table>  
+          <img align="left" height="150" alt="coding-time" src="hand pointer.png">
+          <img height="50" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+          <img height="50" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+          <img height="50" width="40" alt="figma-icon" src="figma.png">
+          <img height="50" width="40" alt="bootstrap-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+          <img height="50" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+          <img height="50" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+          <img height="50" width="40" alt="ionic-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg"><br>
+          <img height="50" width="40" alt="jquery-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+          <img height="50" width="40" alt="angularjs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+          <img height="50" width="40" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+          <img height="50" width="40" alt="mysql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+          <img height="50" width="40" alt="php-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+          <img height="50" width="40" alt="tomcat-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original-wordmark.svg">
+          <img height="50" width="40" alt="trello-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">    
   </div>
    <br>
    <br>
