@@ -3,8 +3,8 @@
 </div>
   <br>
   <br>
- <h3 style="font-size:30px"><img style = "margin-right:20px;height:80px;" alt="coding-time" src="laptop wave.png">What`s up guys, I`m Nilo!👋
-<h3>
+ <h3 align="center" style="font-size:30px">What`s up guys, I`m Nilo!👋
+ </h3>
  </div>
   
 <br>
@@ -14,6 +14,7 @@
   <div>
   
   <ul>
+  <img style = "margin-right:20px;height:20em;" alt="coding-time" src="laptop wave.png">
   I`m a newly graduated IT technician from Senac RJ. At 20 years old, with a passion for creating web solutions, I am embarking on a journey to become a web developer.<br>
   Here on GitHub, you will find a variety of projects I am working on to enhance my skills as a web developer. I am committed to building interesting and functional applications, applying best development practices, and constantly learning from each project I complete.
   <br>
@@ -22,6 +23,9 @@
     <li>🌱 Currently, I am honing my skills in React, Ionic, and Angular.</li>
     <li>🌐  I am to specialize in full-stack web development to create modern and responsive applications.</li>
     <li>📚 I am always learning and keeping up with the latest trends and technologies in the web industry.</li>
+  <div align="right">
+   <img style="height:200px;width:300px" alt="coding-time" src="I love the internet.png">
+  </div>
     <br>
     Feel free to explore my work and follow my progress as a web developer. I am excited to build an exciting future in the field of web development and share my knowledge with the community here on GitHub.
     <br>
@@ -29,9 +33,7 @@
     Stay here to witness my progress 😎
   </ul>
   </div> 
-  <div align="right">
-   <img style="height:200px;width:300px" alt="coding-time" src="I love the internet.png">
-  </div>
+
   </section>
   <br>
 
