@@ -66,6 +66,6 @@
     <h1>📞Contact me</h1>  
     <br>
     <a href="mailto:nilogabriel21@gmail.com" alt="Gmail"><img height="50" width="40" alt="gmail-icon" src="gmail.svg"></a>
-    <a href="https://api.whatsapp.com/send?phone=5521988860705" alt="WhatsApp"><img height="50" width="40" alt="whatsApp-icon" src="whatsApp.png"></a>
+    <a href="https://api.whatsapp.com/send?phone=5521988860705" alt="WhatsApp"><img height="50" width="40" alt="whatsApp-icon" src="whatsApp.svg"></a>
     <a href="https://www.linkedin.com/in/nilo-silva-b98001249/" alt="Linkedin"><img height="50" width="40" alt="linkedin-icon" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a>
  </div>
