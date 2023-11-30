@@ -42,8 +42,8 @@
           <img height="50" width="40" alt="figma-icon" src="figma.png">
           <img height="50" width="40" alt="bootstrap-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
           <img height="50" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-          <img height="50" width="40" alt="ionic-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg<br>
-          <!-- <img height="50" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
+          <img height="50" width="40" alt="node-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+          <!-- <img height="50" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> --> 
           <img height="50" width="40" alt="ionic-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg"><br>
           <img height="50" width="40" alt="jquery-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
           <img height="50" width="40" alt="angularjs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
