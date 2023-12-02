@@ -64,7 +64,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilokrtz&layout=compact&langs_count=16&theme=radical"/>
   </div>
  <div align="center">
-    <h1>📞Contact me</h1>  
+    <h1>📞Contact me!</h1>  
     <br>
     <a href="https://www.linkedin.com/in/nilo-silva-b98001249/" alt="Linkedin"><img height="50" width="40" alt="linkedin-icon" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a>
     <a href="https://api.whatsapp.com/send?phone=5521988860705" alt="WhatsApp"><img height="57" width="60" alt="whatsApp-icon" src="whatsapp.webp"></a>
