@@ -1,72 +1,83 @@
-<div align="center">
-  <img width="700" height="400" src="Logo.png" >
+# 👨🏻‍💻 Nilo Silva
+
+**`Desenvolvedor Back-End | Java • Spring • SQL`**
+
+Sou um desenvolvedor back-end apaixonado por resolver problemas através da programação. Tenho 22 anos, sou do Rio de Janeiro e atualmente curso **Sistemas de Informação** no **CEFET-RJ**. Concluí o ensino médio no **CAP-UFRJ**, junto com um curso técnico em informática no **Senac-RJ**.
+
+Trabalho com tecnologias modernas para criação de APIs robustas, sistemas escaláveis e manutenção de aplicações web.
+
+---
+
+## 🛠️ Tecnologias
+
+### 💡 Back-End
+<div style="display: inline-block">
+  <img title="Java" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img title="Spring Boot" alt="Spring Boot" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img title="MySQL" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img title="PostgreSQL" alt="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </div>
-  <br>
-  <br>
- <h3 align="center" style="font-size:30px">What`s up guys, I`m Nilo!👋
- </h3>
- </div>
-<br>
-<h1 align="center">✨  About Me </h1>
-  <section>
-  <div>
-  <ul>
-  <div>
-  <img align="left" style = "margin-right:20px;height:13em;" alt="coding-time" src="laptop wave.png">
-    <br>
-    <br>
-  <p>I`m a newly graduated IT technician from Senac RJ. At 20 years old, with a passion for creating web solutions, I am embarking on a journey to become a web developer.<br>
-  Here on GitHub, you will find a variety of projects I am working on to enhance my skills as a web developer. I am committed to building interesting and functional applications, applying best development practices, and constantly learning from each project I complete.</p>
-  </div>
-  <br>
-  <br>
-    <img align="right" style="height:15em; alt="coding-time" src="I love the internet.png">
-    <li>💻 Interests:  Full-stack development and programming a little bit of all.</li>
-    <li>🌱 Currently, I am honing my skills in React, Ionic, and Angular.</li>
-    <li>🌐  I am to specialize in full-stack web development to create modern and responsive applications.</li>
-    <li>📚 I am always learning and keeping up with the latest trends and technologies in the web industry.</li>
-    <br>
-    Feel free to explore my work and follow my progress as a web developer. I am excited to build an exciting future in the field of web development and share my knowledge with the community here on GitHub.
-    <br>
-    <br>
-    Stay here to witness my progress 😎
-  </ul>
-  </div> 
-  </section>
-  <br>
-  <div align="center">
-    <h1>🛠️Languages and Tools </h1>  
-    <br>
-        <div><img height="50" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-          <img height="50" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-          <img height="50" width="40" alt="figma-icon" src="figma.png">
-          <img height="50" width="40" alt="bootstrap-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-          <img height="50" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-          <img height="50" width="40" alt="node-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-          <!-- <img height="50" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> --> 
-          <img height="50" width="40" alt="ionic-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg"><br>
-          <img height="50" width="40" alt="jquery-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
-          <img height="50" width="40" alt="angularjs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-          <img height="50" width="40" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-          <img height="50" width="40" alt="mysql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-          <img height="50" width="40" alt="php-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-          <img height="50" width="40" alt="tomcat-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original-wordmark.svg">
-          <img height="50" width="40" alt="trello-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
-        </div>
-        <div><img height="150" alt="coding-time" src="hand pointer.png"></div>
-  </div>
-   <br>
-   <br>
-   <br>
-  <div align="center">
-  <h1>📈 GitHub Stats</h1>
-  <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=Nilokrtz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilokrtz&layout=compact&langs_count=16&theme=radical"/>
-  </div>
- <div align="center">
-    <h1>📞Contact me</h1>  
-    <br>
-    <a href="https://www.linkedin.com/in/nilo-silva-b98001249/" alt="Linkedin"><img height="50" width="40" alt="linkedin-icon" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a>
-    <a href="https://api.whatsapp.com/send?phone=5521988860705" alt="WhatsApp"><img height="57" width="60" alt="whatsApp-icon" src="whatsapp.webp"></a>
-    <a href="mailto:nilogabriel21@gmail.com" alt="Gmail"><img height="50" width="40" alt="gmail-icon" src="gmail.svg"></a>
- </div>
+
+### 🧪 Testes
+<div style="display: inline-block">
+  <img title="JUnit" alt="JUnit" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg"/>
+  <img title="JUnit" alt="JUnit" width="70px" src="mockito.png"/>
+
+</div>
+
+### 🧰 Ferramentas & Versionamento
+<div style="display: inline-block">
+  <img title="Git" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img title="GitHub" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img title="Linux" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img title="Docker" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+</div>
+
+### 🌐 Conhecimentos Front-End (apoio)
+<div style="display: inline-block">
+  <img title="HTML" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img title="CSS" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img title="JavaScript" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img title="Bootstrap" alt="Bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img title="React" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img title="Next.js" alt="Next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+</div>
+
+---
+<!-- 
+## 📂 Projetos em Destaque
+
+- 🔐 **[Sistema de Autenticação com Spring Boot e JWT](https://github.com/Nilokrtz/spring-auth-jwt)**  
+  Projeto completo com autenticação, controle de acesso e refresh token.
+
+- 💊 **[Sistema de Farmácia](https://github.com/Nilokrtz/farmacia-backend)**  
+  CRUD completo com gerenciamento de medicamentos, farmacêuticos e compras (Java + MySQL).
+
+- 🎮 **[Jogo estilo Zelda em Java](https://github.com/Nilokrtz/zelda-game-java)**  
+  Jogo 2D com animações, colisões e inteligência de inimigos usando Java puro + JavaFX.
+
+--- -->
+
+## 📊 Estatísticas GitHub
+
+<p>
+  <img 
+    align="left" 
+    alt="Estatísticas do GitHub" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api?username=Nilokrtz&show_icons=true&theme=tokyonight&locale=pt-br"
+  />
+  <img 
+    align="left" 
+    alt="Linguagens mais usadas" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilokrtz&theme=tokyonight&layout=compact&langs_count=8"
+  />
+</p>
+
+---
+
+## 📫 Contato
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/nilo-silva21)
+- 📧 Email: **nilogabriel21@gmail.com**
