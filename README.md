@@ -77,6 +77,8 @@ Trabalho com tecnologias modernas para criação de APIs robustas, sistemas esca
 
 ---
 
+<br/>
+
 ## 📫 Contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/nilo-silva21)
