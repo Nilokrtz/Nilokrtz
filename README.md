@@ -43,8 +43,8 @@ Trabalho com tecnologias modernas para criação de APIs robustas, sistemas esca
   <img title="Next.js" alt="Next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 </div>
 
----
 <!-- 
+---
 ## 📂 Projetos em Destaque
 
 - 🔐 **[Sistema de Autenticação com Spring Boot e JWT](https://github.com/Nilokrtz/spring-auth-jwt)**  
@@ -56,30 +56,25 @@ Trabalho com tecnologias modernas para criação de APIs robustas, sistemas esca
 - 🎮 **[Jogo estilo Zelda em Java](https://github.com/Nilokrtz/zelda-game-java)**  
   Jogo 2D com animações, colisões e inteligência de inimigos usando Java puro + JavaFX.
 
---- -->
+-->
+---
 
-## 📊 Estatísticas GitHub
+## 📊 Estatísticas do GitHub
 
-<p>
-  <img 
-    align="left" 
-    alt="Estatísticas do GitHub" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=Nilokrtz&show_icons=true&theme=tokyonight&locale=pt-br"
-  />
-  <img 
-    align="left" 
-    alt="Linguagens mais usadas" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilokrtz&theme=tokyonight&layout=compact&langs_count=8"
-  />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nilokrtz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilokrtz&layout=compact&langs_count=7&theme=algolia&locale=pt-br"/>
 </p>
 
 ---
 
-<br/>
-
 ## 📫 Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/nilo-silva21)
-- 📧 Email: **nilogabriel21@gmail.com**
+<p align="center">
+  <a href="https://www.linkedin.com/in/nilo-silva21" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:nilogabriel21@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
