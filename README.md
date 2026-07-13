@@ -1,80 +1,111 @@
-# 👨🏻‍💻 Nilo Silva
+<div align="center">
 
-**`Desenvolvedor Back-End | Java • Spring • SQL`**
+<img src="./assets/dragon-ball.webp" width="105" alt="Esfera do Dragão" />
 
-Sou um desenvolvedor back-end apaixonado por resolver problemas através da programação. Tenho 22 anos, sou do Rio de Janeiro e atualmente curso **Sistemas de Informação** no **CEFET-RJ**. Concluí o ensino médio no **CAP-UFRJ**, junto com um curso técnico em informática no **Senac-RJ**.
+# Nilo Silva
 
-Trabalho com tecnologias modernas para criação de APIs robustas, sistemas escaláveis e manutenção de aplicações web.
+### Desenvolvedor Back-End
+
+`Java` • `Spring Boot` • `PostgreSQL` • `Python`
+
+<p>
+  Estudante de Sistemas de Informação no CEFET-RJ.<br>
+  Desenvolvendo soluções back-end, automações e projetos orientados a dados.
+</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nilo%20Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilo-silva21)
+[![E-mail](https://img.shields.io/badge/E--mail-Contato-F57C00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nilogabriel21@gmail.com)
+
+</div>
 
 ---
 
-## 🛠️ Tecnologias
+<img align="right" width="360" src="./assets/goku-grass.webp" alt="Goku descansando na grama" />
 
-### 💡 Back-End
-<div style="display: inline-block">
-  <img title="Java" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img title="Spring Boot" alt="Spring Boot" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img title="MySQL" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img title="PostgreSQL" alt="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-</div>
+## Sobre mim
 
-### 🧪 Testes
-<div style="display: inline-block">
-  <img title="JUnit" alt="JUnit" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg"/>
-  <img title="JUnit" alt="JUnit" width="70px" src="mockito.png"/>
+Sou estudante de **Sistemas de Informação no CEFET-RJ**, com formação prevista para dezembro de 2027, e Técnico em Informática pelo **Senac RJ**.
 
-</div>
+Atualmente trabalho como **Estagiário de TI na Qualidados**, atuando com suporte N2, automação de processos, relatórios e análise de dados.
 
-### 🧰 Ferramentas & Versionamento
-<div style="display: inline-block">
-  <img title="Git" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img title="GitHub" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img title="Linux" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img title="Docker" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-</div>
+Também tive experiência como Bolsista de Extensão no **CEFET-RJ**, desenvolvendo aplicações internas com Java e Spring Boot, integrações com APIs externas e testes automatizados.
 
-### 🌐 Conhecimentos Front-End (apoio)
-<div style="display: inline-block">
-  <img title="HTML" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img title="CSS" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img title="JavaScript" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img title="Bootstrap" alt="Bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img title="React" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img title="Next.js" alt="Next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-</div>
+Tenho interesse em:
 
-<!-- 
----
-## 📂 Projetos em Destaque
+- Desenvolvimento de APIs REST.
+- Arquitetura de aplicações back-end.
+- Bancos de dados e performance.
+- Automação de processos.
+- Testes e qualidade de software.
 
-- 🔐 **[Sistema de Autenticação com Spring Boot e JWT](https://github.com/Nilokrtz/spring-auth-jwt)**  
-  Projeto completo com autenticação, controle de acesso e refresh token.
+<br clear="right" />
 
-- 💊 **[Sistema de Farmácia](https://github.com/Nilokrtz/farmacia-backend)**  
-  CRUD completo com gerenciamento de medicamentos, farmacêuticos e compras (Java + MySQL).
-
-- 🎮 **[Jogo estilo Zelda em Java](https://github.com/Nilokrtz/zelda-game-java)**  
-  Jogo 2D com animações, colisões e inteligência de inimigos usando Java puro + JavaFX.
-
--->
 ---
 
-## 📊 Estatísticas do GitHub
+## Tecnologias
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nilokrtz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilokrtz&layout=compact&langs_count=7&theme=algolia&locale=pt-br"/>
+### Back-end
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/REST%20APIs-F57C00?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+</p>
+
+### Bancos de dados e análise
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+</p>
+
+### Testes, infraestrutura e ferramentas
+
+<p>
+  <img src="https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5" />
+  <img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge" alt="Mockito" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+### Conhecimentos de front-end
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
 </p>
 
 ---
 
-## 📫 Contato
+## Estatísticas do GitHub
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nilo-silva21" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:nilogabriel21@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+<div align="center">
+<img height="150em" src="https://github-readme-stats-fast.vercel.app/api?username=Nilokrtz&show_icons=true&theme=nord" alt="stats"/>
+  <img height="150em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Nilokrtz&layout=compact&theme=nord" alt="stats"/>
+</div>
+<div align="center">
+<img height="150em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=Nilokrtz&theme=nord" alt="stats"/>
+</div>
+
+---
+
+<div align="center">
+
+<img src="./assets/goku-thumbs-up.webp" width="410" alt="Goku dando joinha" />
+
+### Obrigado pela visita!
+
+Estou aberto a oportunidades de estágio e desenvolvimento back-end.
+
+[LinkedIn](https://www.linkedin.com/in/nilo-silva21) • [E-mail](mailto:nilogabriel21@gmail.com) • [Repositórios](https://github.com/Nilokrtz?tab=repositories)
+
+</div>
