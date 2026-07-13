@@ -20,10 +20,10 @@
 
 ---
 
-<img align="right" width="360" src="./assets/goku-grass.webp" alt="Goku descansando na grama" />
 
-## Sobre mim
-
+# Sobre mim
+<br>
+<img align="right" width="500" height="600" src="./assets/goku-grass.webp" alt="Goku descansando na grama" />
 Sou estudante de **Sistemas de Informação no CEFET-RJ**, com formação prevista para dezembro de 2027, e Técnico em Informática pelo **Senac RJ**.
 
 Atualmente trabalho como **Estagiário de TI na Qualidados**, atuando com suporte N2, automação de processos, relatórios e análise de dados.
@@ -100,7 +100,7 @@ Tenho interesse em:
 
 <div align="center">
 
-<img src="./assets/goku-thumbs-up.webp" width="410" alt="Goku dando joinha" />
+<img src="./assets/goku-thumbs-up.webp" width="200px" alt="Goku dando joinha" />
 
 ### Obrigado pela visita!
 
