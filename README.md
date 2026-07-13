@@ -33,14 +33,6 @@ Atualmente trabalho como **Estagiário de TI na Qualidados**, atuando com suport
 
 Também tive experiência como Bolsista de Extensão no **CEFET-RJ**, desenvolvendo aplicações internas com Java e Spring Boot, integrações com APIs externas e testes automatizados.
 
-Tenho interesse em:
-
-- Desenvolvimento de APIs REST.
-- Arquitetura de aplicações back-end.
-- Bancos de dados e performance.
-- Automação de processos.
-- Testes e qualidade de software.
-
 <br clear="right" />
 
 ---
