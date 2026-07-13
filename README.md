@@ -25,13 +25,17 @@
 
 <br>
 
-<img align="right" width="500" height="600" src="./assets/goku-grass.webp" alt="Goku descansando na grama" />
+<img align="right" width="500" height="600" src="./assets/goku_gohan.jpg" alt="Goku descansando na grama" />
 
 Sou estudante de **Sistemas de Informação no CEFET-RJ**, com formação prevista para dezembro de 2027, e Técnico em Informática pelo **Senac RJ**.
 
 Atualmente trabalho como **Estagiário de TI na Qualidados**, atuando com suporte N2, automação de processos, relatórios e análise de dados.
 
 Também tive experiência como Bolsista de Extensão no **CEFET-RJ**, desenvolvendo aplicações internas com Java e Spring Boot, integrações com APIs externas e testes automatizados.
+
+Fora da tecnologia, gosto de praticar boxe, treinar na academia e conhecer novos esportes. Tenho uma personalidade curiosa e competitiva, estou sempre procurando novos desafios e oportunidades para superar meus limites, tanto no desenvolvimento profissional quanto na vida pessoal.
+
+Acredito que a disciplina adquirida por meio dos esportes também influencia minha forma de trabalhar: mantenho o foco, valorizo a consistência e não desisto facilmente diante de problemas difíceis.
 
 <br clear="right" />
 
