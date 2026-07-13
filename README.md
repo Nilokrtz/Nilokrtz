@@ -103,8 +103,6 @@ Acredito que a disciplina adquirida por meio dos esportes também influencia min
 
 ### Obrigado pela visita!
 
-Estou aberto a oportunidades de estágio e desenvolvimento back-end.
-
 [LinkedIn](https://www.linkedin.com/in/nilo-silva21) • [E-mail](mailto:nilogabriel21@gmail.com) • [Repositórios](https://github.com/Nilokrtz?tab=repositories)
 
 </div>
