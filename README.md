@@ -25,7 +25,7 @@
 
 <br>
 
-<img align="right" width="500" height="600" src="./assets/goku_gohan.jpg" alt="Goku descansando na grama" />
+<img align="right" width="500" height="500" src="./assets/goku_gohan.jpg" alt="Goku descansando na grama" />
 
 Sou estudante de **Sistemas de Informação no CEFET-RJ**, com formação prevista para dezembro de 2027, e Técnico em Informática pelo **Senac RJ**.
 
